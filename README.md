@@ -7,8 +7,8 @@ Built entirely in C++
 
 MOS(Multiprogramming Operating System)
 
-1.Used for execution of multiple jobs
-2.Job should be defined ,well structured.
+1.Used for execution of multiple jobs\
+2.Job should be defined ,well structured.\
 3.System Will Report Error ,For Wrong Jobs With Proper Error Messages.
 4.Series of Jobs should be kept in input.txt.
 5.Afer processing of jobs output can be seen output.txt.
