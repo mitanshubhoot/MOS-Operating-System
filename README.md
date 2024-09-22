@@ -7,13 +7,13 @@ Built entirely in C++
 
 MOS(Multiprogramming Operating System)
 
-Used for execution of multiple jobs
-Job should be defined ,well structured.
-System Will Report Error ,For Wrong Jobs With Proper Error Messages.
-Series of Jobs should be kept in input.txt.
-Afer processing of jobs output can be seen output.txt.
-Random memory allocation for program card used using paging.
-Job can consist of Instruction
+1.Used for execution of multiple jobs
+2.Job should be defined ,well structured.
+3.System Will Report Error ,For Wrong Jobs With Proper Error Messages.
+4.Series of Jobs should be kept in input.txt.
+5.Afer processing of jobs output can be seen output.txt.
+6.Random memory allocation for program card used using paging.
+7.Job can consist of Instruction
 
 GD-Get Data
 PD-Print Data
