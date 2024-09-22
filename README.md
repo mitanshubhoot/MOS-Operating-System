@@ -3,7 +3,7 @@
 A Virtual Implemention of routines of OS.\
 Project consited of three phases. Phase3 is final phase for project.\
 Works for any no. of jobs. Supports input spooling, output spooling, paging and error handling.\
-Built entirely in C++\
+Built entirely in C++
 
 MOS(Multiprogramming Operating System)\
 
@@ -24,4 +24,4 @@ BT-Branch Toggle(Checks Toggle Variable)\
 H- Denotes end of job : Hault.\
 Job should start with $AMJ\
 There is $DTA after declaration of program cards and before data cards\
-Job should end with $END\
+Job should end with $END
